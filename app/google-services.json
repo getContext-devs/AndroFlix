@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130086083503",
+    "project_id": "imdb-59fe5",
+    "storage_bucket": "imdb-59fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130086083503:android:3c1b465847c8985aed6d5a",
+        "android_client_info": {
+          "package_name": "com.redeyesncode.tmdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130086083503-7ctbvh0t24kbr954gbftpfc518b2475c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redeyesncode.tmdb",
+            "certificate_hash": "1dfee397a1c9cfa6b01bdb74a0308f9d4da5c3f2"
+          }
+        },
+        {
+          "client_id": "130086083503-h7c1c0e1qig8qm95mv89vbdhnn3oa5dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC5p4NekSQHWhgd914YQuRCBOA0Wz9JUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130086083503-h7c1c0e1qig8qm95mv89vbdhnn3oa5dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
